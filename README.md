@@ -9,7 +9,7 @@ Adoro esportes, principalmente futebol (sou torcedor fanático do Vasco e do Man
 Também gosto de passar um tempo com meus amigos e família, pricipalmente. Sair com eles, jogar futebol, uma roda de conversa sobre qualquer coisa.  
 
 ## :computer: Social
-Seguem a seguir minhas redes sociais:  
+Seguem abaixo as minhas redes sociais:  
 [LinkedIn](https://www.linkedin.com/in/victor-moraes-289977169/)  
 [Twitter](https://twitter.com/victordmoraes)  
 [Instagram](https://www.instagram.com/victordlmoraes/)
