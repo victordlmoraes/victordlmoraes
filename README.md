@@ -1,5 +1,5 @@
 # Olá, como vai? Seja muito bem-vindo! 👋
-Meu nome é Victor Moraes, no momento estou iniciando a minha carreira na programação, mais precisamente como **Desenvolvedor Front End**. Netse perfil estarei postando alguns projetos pessoais ou pequenas práticas, a fim de documentar minha evolução como developer.
+Meu nome é Victor Moraes, no momento estou iniciando a minha carreira na programação, mais precisamente como **Desenvolvedor Front End**. Neste perfil estarei postando alguns projetos pessoais ou pequenas práticas, a fim de documentar minha evolução como developer.
 
 ## :label: Sobre mim
 Estou me apaixonando cada vez mais por tecnologia, e por esse mundo imenso que é a programação. Planejo solidificar cada vez mais os meus conhecimentos nessa área, com muita prática e estudo!  
