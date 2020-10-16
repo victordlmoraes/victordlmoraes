@@ -10,7 +10,9 @@ Também gosto de passar um tempo com meus amigos e família, pricipalmente. Sair
 
 ## :computer: Social
 Seguem abaixo as minhas redes sociais:
-<a href="https://www.linkedin.com/in/victor-moraes95/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/victordlmoraes/?hl=pt-br" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/victordmoraes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://github.com/victordlmoraes?tab=repositories"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<p
+  <a href="https://www.linkedin.com/in/victor-moraes95/" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/victordlmoraes/?hl=pt-br" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/victordmoraes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/victordlmoraes?tab=repositories"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
