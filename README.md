@@ -14,5 +14,5 @@ Hi, I'm Victor Moraes, and I'm on a journey to become a skilled Developer. In th
 - Contact: victordlmoraes@hotmail.com, or feel free to send me a message via LinkedIn :smile:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=victordlmoraes&show_icons=true" alt="victordlmoraes"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=victordlmoraes&show_icons=true&theme=dark" alt="victordlmoraes"/> 
 </p>
