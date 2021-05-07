@@ -10,7 +10,7 @@
 Hi, I'm Victor Moraes, and I'm on a journey to become a skilled Developer. In this profile, I will be posting some personal or small projects, in a way to document my learning steps in order to become a developer.
 
 - Main technologies: **HTML, CSS, Javascript, jQuery, Bootstrap**
-- Currently studying: **React.js, Node.js, Firebase, MongoDb, Electron**
+- Currently studying: **React.js, Redux**
 - Contact: victordlmoraes@hotmail.com, or feel free to send me a message via LinkedIn :smile:
 
 <p align="center">
